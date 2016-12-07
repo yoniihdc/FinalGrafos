@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 #Importacion de libreías
 import networkx as nx				#Librería para la creación de gráfos, en el programa se utilizará como "nx"
 import matplotlib.pyplot as plt		#Librería para desplegar el diagrama de Hasse
